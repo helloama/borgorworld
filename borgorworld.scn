@@ -1,0 +1,195 @@
+{
+  "objects": [
+    
+{
+      "type": "application/spawnpoint",
+      "content": {
+        "position": [47.41,22.01,3.41]
+      }
+    },
+		{
+      "type": "application/light",
+      "content": {
+        "lightType": "ambient",
+        "args": [[255, 255, 255], 0.5]
+      }
+    },
+    {
+      "type": "application/light",
+      "content": {
+        "lightType": "directional",
+        "args": [[255, 255, 255], 5],
+        "position": [1, 2, 3],
+        "shadow": [150, 5120, 0.1, 10000, -0.0001]
+      }
+    },
+    {
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "start_url": "https://webaverse.github.io/skybox-360/"
+    },
+    {
+      "position": [
+        -26,
+        0,
+        -2
+      ],
+      "quaternion": [
+        0,
+        0.7071067811865475,
+        0,
+        0.7071067811865475
+      ],
+      "start_url": "https://helloama.github.io/borgorworld/borgorrabbit.vrm"
+    },
+    {
+      "position": [
+        0,
+        0,
+        0
+      ],
+       "scale": [
+        30,
+        30,
+        30,
+        30
+      ],
+      "physics": true,
+      "start_url": "https://helloama.github.io/borgorworld/borgorbase.glb"
+    }
+,{
+	"position": [
+		0,
+		1,
+		0
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+   "scale": [
+        10,
+        10,
+        10
+  ],
+	"start_url": "https://helloama.github.io/borgorworld/borgors.glb"
+}
+,{
+	"position": [
+		0,
+		1,
+		0
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+    "scale": [
+        50,
+        50,
+        50
+  ],
+	"start_url": "https://helloama.github.io/borgorworld/borgortrain.glb"
+}
+,{
+	"position": [
+		0,
+		1,
+		0
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+  "scale": [
+        50,
+        50,
+        50
+  ],
+	"start_url": "https://helloama.github.io/borgorworld/borgortrain1.glb"
+  },
+    {
+      "position": [
+        55.72,
+        22.24,
+        0.77
+      ],
+      "quaternion": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "type": "application/npc",
+      "content": {
+        "name": "Rabbit",
+        "avatarUrl": "https://helloama.github.io/borgorworld/borgorrabbit.vrm",
+            "voice": "Sweetie Belle",
+            "bio": "An extraterrestrial rabbit named Borgor Rabbit appears to be infatuated with Borgors, which may raise the question, what exactly is a Borgor? The Hamburger has to be it! This wacky critter loves to groove! Borgor Dance, are you doing it?"
+          }
+    
+}
+,{
+	"position": [
+		0,
+		1,
+		0
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+  "scale": [
+        30,
+        30,
+        30
+  ],
+	"start_url": "https://helloama.github.io/borgorworld/ferriswheel.glb"
+}
+,{
+	"position": [
+		0,
+		1,
+		0
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+     "scale": [
+        30,
+        30,
+        30
+  ],
+	"start_url": "https://helloama.github.io/borgorworld/fries.glb"
+}
+,{
+	"position": [
+		47.41,
+		22.01,
+		3.41
+	],
+	"quaternion": [
+		0,
+		0,
+		0,
+		1
+	],
+	"start_url": "https://helloama.github.io/BorgorSpaceShip/"
+}
+
+  ]
+}
